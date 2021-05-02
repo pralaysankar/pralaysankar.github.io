@@ -1,0 +1,46 @@
+header{
+    background-color: rgb(21,41,79);
+    height:60px;
+    text-align:center;
+}
+body{
+    margin:0;
+    background-color: lightgray;
+}
+a{
+    color:white;
+    margin:20px;
+    
+}
+nav{
+    padding-top:20px;
+}
+.header-link{
+    color:white;
+    margin:20px;
+    
+}
+section{
+    background-color:lightgray;
+    width:auto;
+}
+h1{
+    text-align: center;
+    margin:0px;
+    padding:15px;
+}
+p{
+    padding:0 200px;
+    font-size:20px;
+}
+footer{
+    background-color: rgb(21,41,79);
+    height:60px;
+    margin-top:416px;
+}
+video{
+    width:1280px;
+    height:720px;
+    margin-left: 280px;
+}
+
